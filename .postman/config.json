@@ -1,0 +1,15 @@
+{
+  "workspace": {
+    "id": "8c3c8a01-b7bd-4a3d-a83b-6258e9d6c5e3"
+  },
+  "entities": {
+    "environments": [],
+    "flows": [],
+    "globals": [],
+    "mocks": [],
+    "specs": [
+      "..\\Harfien.Api\\obj\\Debug\\net8.0\\EndpointInfo\\Harfien.Presentation.json"
+    ],
+    "collections": []
+  }
+}

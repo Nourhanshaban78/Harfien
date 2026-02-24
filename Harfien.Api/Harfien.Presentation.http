@@ -1,0 +1,10 @@
+﻿@Harfien.Presentation_HostAddress = https://localhost:7083
+
+POST {{Harfien.Presentation_HostAddress}}/api/services
+Content-Type: application/json
+
+{
+  //ServiceCreateDto
+}
+
+###

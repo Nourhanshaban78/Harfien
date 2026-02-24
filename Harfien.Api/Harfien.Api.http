@@ -1,0 +1,6 @@
+@Harfien.Api_HostAddress = http://localhost:5072
+
+GET {{Harfien.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
